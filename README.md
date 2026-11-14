@@ -1,5 +1,6 @@
 # Linux Hardware Q&A Assistant
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Yamnur/linux-hardware-assistant?quickstart=1)
+
 A local, natural-language Linux hardware assistant that uses **Google Gemini, Python and secure tool calling** to inspect system hardware and answer questions with real system data.
 
 ## Overview
